@@ -60,7 +60,7 @@ export default function HomePage() {
       </section>
 
       {/* Footer */}
-      <footer className="bg-black text-white text-center py-4">
+
         © 2025 MovieMania. All rights reserved.
       </footer>
     </div>
