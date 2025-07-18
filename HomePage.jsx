@@ -36,7 +36,12 @@ export default function HomePage() {
       </nav>
 
       {/* Hero Section */}
- 
+      <header className="bg-cover bg-center h-64 flex items-center justify-center text-white text-center" style={{ backgroundImage: 'url(https://wallpaperaccess.com/full/3295834.jpg)' }}>
+        <div className="bg-black bg-opacity-60 p-8 rounded-lg">
+          <h2 className="text-3xl md:text-5xl font-bold">Welcome to MovieMania</h2>
+          <p className="mt-2 text-lg">Discover and review your favorite films!</p>
+        </div>
+      </header>
 
       {/* Movie Cards */}
       <section className="px-6 py-12">
