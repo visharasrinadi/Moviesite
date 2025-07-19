@@ -44,7 +44,7 @@ export default function HomePage() {
       </header>
 
       {/* Movie Cards */}
-  
+      <section className="px-6 py-12">
         <h3 className="text-2xl font-semibold mb-6">Featured Movies</h3>
         <div className="grid md:grid-cols-3 gap-6">
           {movies.map((movie) => (
