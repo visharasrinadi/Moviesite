@@ -1,12 +1,6 @@
 import React from "react";
 
-const movies = [
-  {
-    id: 1,
-    title: "Inception",
-    description: "A mind-bending thriller by Christopher Nolan.",
-    image: "https://image.tmdb.org/t/p/w500/8s4h9friP6Ci3adRGahHARVd76E.jpg"
-  },
+
   {
     id: 2,
     title: "Interstellar",
